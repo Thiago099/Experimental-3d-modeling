@@ -1,7 +1,7 @@
 ## Instalation 
 pip install -r requirements.txt
 
-##Controls
+## Controls
 ctrl click to rotate camera
 mouse wheel to zoom
 click to select segment
